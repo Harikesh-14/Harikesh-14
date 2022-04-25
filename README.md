@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harikesh-14
-- 👀 I’m interested in Coding and Learning ablout SPACE
+- 👀 I’m interested in Coding and Learning about SPACE
 - 🌱 I’m currently learning Web Devlopement (Advanced)
 - 📫 How to reach me:
       Email: ranjansinhaharikesh@gmail.com
