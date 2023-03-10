@@ -1,5 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harikesh Ranjan Sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://codecell-cmpn-vesit.ves.ac.in/coding2.gif)">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikesh-14&label=Profile%20views&color=0e75b6&style=flat" alt="harikesh-14" /> </p>
+
+<p align="left"> <a href="https://twitter.com/sinha_harikesh" target="blank"><img src="https://img.shields.io/twitter/follow/sinha_harikesh?logo=twitter&style=for-the-badge" alt="sinha_harikesh" /></a> </p>
 
 - 🌱 I’m currently learning **React JS and DSA**
 
@@ -25,7 +31,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikesh-14&show_icons=true&locale=en&layout=compact" alt="harikesh-14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikesh-14&" alt="harikesh-14" /></p>
-
 
 <!---
 Harikesh-14/Harikesh-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
