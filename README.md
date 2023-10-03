@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sinha_harikesh" target="blank"><img src="https://img.shields.io/twitter/follow/sinha_harikesh?logo=twitter&style=for-the-badge" alt="sinha_harikesh" /></a> </p>
 
-- 🔭 I’m currently working on [Event Reservation Portal](https://github.com/Harikesh-14/Events-Reservation-Portal) and [Portfolio Website](https://github.com/Harikesh-14/Portfolio)
+- 🔭 I’m currently working on [Event Reservation Portal](https://github.com/Harikesh-14/Events-Reservation-Portal), [Portfolio Website](https://github.com/Harikesh-14/Portfolio) and [TaskMaster](https://github.com/Harikesh-14/TaskMaster)
 
 - 🌱 I’m currently learning **React JS and DSA**
 
-- 👯 I’m looking to collaborate on [Event Reservation Portal](https://github.com/Harikesh-14/Events-Reservation-Portal) and [Portfolio Website](https://github.com/Harikesh-14/Portfolio)
+- 👯 I’m looking to collaborate on [Event Reservation Portal](https://github.com/Harikesh-14/Events-Reservation-Portal), [Portfolio Website](https://github.com/Harikesh-14/Portfolio) and [TaskMaster](https://github.com/Harikesh-14/TaskMaster)
 
 - 💬 Ask me about **Express JS and MongoDB**
 
