@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/sinha_harikesh" target="blank"><img src="https://img.shields.io/twitter/follow/sinha_harikesh?logo=twitter&style=for-the-badge" alt="sinha_harikesh" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Feeback Portal (Frontend & Backend),<br><br>🌱 I’m currently learning Next.js, Rust, Oracle and Web Scrapping<br><br>👯 I’m looking to collaborate on Feeback Portal (Frontend & Backend)<br><br>💬 Ask me about MERN Stack and Rust<br><br>📫 How to reach me ranjansinhaharikesh@gmail.com or hn9853@srmist.edu.in<br><br>⚡ Fun fact I like to talk about Spirituality, Geopolitics and Indian History
+🔭 I’m currently working on RealEstate-Gruham (Frontend & Backend),<br><br>🌱 I’m currently learning Next.js, Rust, Oracle and Web Scrapping<br><br>👯 I’m looking to collaborate on Feeback Portal (Frontend & Backend)<br><br>💬 Ask me about MERN Stack and Rust<br><br>📫 How to reach me ranjansinhaharikesh@gmail.com or hn9853@srmist.edu.in<br><br>⚡ Fun fact I like to talk about Spirituality, Geopolitics and Indian History
 
 <br>
 
