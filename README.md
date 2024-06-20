@@ -7,7 +7,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Harikesh-14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://twitter.com/sinha_harikesh" target="blank"><img src="https://img.shields.io/twitter/follow/sinha_harikesh?logo=twitter&style=for-the-badge" alt="sinha_harikesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sinha_harikesh" target="blank"><img src="https://img.shields.io/twitter/follow/sinha_harikesh?logo=twitter&style=for-the-badge" alt="sinha_harikesh" /></a></p>
 
 # 💫 About Me:
 🔭 I’m currently working on PutYourOrder (Frontend & Backend).<br><br>🌱 I’m presently learning Next.js, Rust and Machine Learning<br><br>👯 I’m looking to collaborate on PutYourOrder (Frontend & Backend) <br><br>💬 Ask me about MERN Stack and Rust <br><br>📫 How to reach me ranjansinhaharikesh@gmail.com or hn9853@srmist.edu.in<br><br>⚡ Fun fact I like to talk about Spirituality, Geopolitics and Indian History
