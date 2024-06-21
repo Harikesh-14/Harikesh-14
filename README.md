@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harikesh Ranjan Sinha</h1>
-<h3 align="center">A passionate MERN Stack Developer 😎</h3>
+<h3 align="center">A passionate MERN Stack Developer 😎</h3> 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harikesh-14&icon=4&color=0)](https://visitcount.itsvg.in)
